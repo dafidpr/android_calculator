@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aplikasi Kalkulator</string>
+    <string name="title_app">MASUKAN DUA ANGKA</string>
+    <string name="hint_text_first_input">Masukan Angka Pertama</string>
+    <string name="hint_text_second_input">Masukan Angka Kedua</string>
+    <string name="label_result">HASIL</string>
+    <string name="label_btn_clean">BERSIHKAN</string>
+    <string name="label_btn_tambah">+</string>
+    <string name="label_btn_kurang">-</string>
+    <string name="label_btn_kali">x</string>
+    <string name="label_btn_bagi">/</string>
+</resources>
